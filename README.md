@@ -8,7 +8,7 @@
 ## Demo Video 🎬
 Check out MongoDB-MCP in action:
 ```bash
-https://youtu.be/fZPeQ9k5WY8
+https://youtu.be/yNfE1Xu9xeI
 ```
 See how easy it is to manage your MongoDB database with just natural language prompts through Claude!
 
